@@ -1,0 +1,19 @@
+
+.navbar {
+    list-style-type: none;
+    padding: 0;
+    background-color: gray;
+}
+
+.navbar li {
+    display: inline;
+    padding: 10px;
+    color: blue;
+}
+
+
+.navbar li:first-child {
+    color: lightgreen;
+}
+
+
